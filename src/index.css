@@ -1,0 +1,21 @@
+body {
+  /* margin: 0;
+  padding: 0;
+  font-family: sans-serif; */
+  background-image: url("https://nyobetabeat.files.wordpress.com/2012/01/neo.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+}
+
+/* html {
+  background: url("https://images.discerningassets.com/image/upload/c_fit,h_600,w_600/v1509980280/The_Godfather_upscaled_pdtwxx.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
